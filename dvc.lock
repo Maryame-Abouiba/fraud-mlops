@@ -53,7 +53,7 @@ stages:
     params:
       params.yaml:
         gates:
-          min_recall: 0.7
+          min_recall: 0.71
           min_precision: 0.4
         seed: 42
         test_size: 0.25
